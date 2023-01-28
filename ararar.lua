@@ -5,4 +5,4 @@ local Section = Tab:NewSection("bot")
 
 Section:NewSlider("SliderText", "SliderInfo", 500, 0, function(s) -- 500 (Макс. значение) | 0 (Мин. значение)
     game:GetService("Workspace").fodfas.Humanoid.WalkSpeed = s	
-and)
+and")
